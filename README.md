@@ -44,6 +44,3 @@ Here Pings_Data is combined on basis of pings received every 15secs by driver's 
 > Train RMSE: 1.65; Test RMSE: 2.01
 
 4. TestScript
-
-### AUTHOR:
-Shaurya Uppal [shauryauppal00111@gmail.com]
